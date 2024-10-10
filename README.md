@@ -1,12 +1,13 @@
-## Hey there, I'm Inês 👋
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
 
-I'm a **Full Stack Developer** and **Salesforce Specialist** with a passion for building web applications from front to back. I love learning new technologies and finding ways to make complex tasks easier. 🚀
+## <span style="color: #4A90E2;">Hey there, I'm Inês 👋</span>
 
-- 🌱 Currently learning **React**.
-- 🔧 Love working with **Java**, **Salesforce**, **JavaScript**, and **SQL** to create powerful applications.
+I'm a <strong style="color: #E67E22;">Full Stack Developer</strong> and <strong style="color: #E67E22;">Salesforce Specialist</strong> with a passion for building web applications from front to back. I love learning new technologies and finding ways to make complex tasks easier. 🚀
+
+- 🌱 Currently learning <strong style="color: #E67E22;">React</strong>.
+- 🔧 Love working with <strong style="color: #E67E22;">Java</strong>, <strong style="color: #E67E22;">Salesforce</strong>, <strong style="color: #E67E22;">JavaScript</strong>, and <strong style="color: #E67E22;">SQL</strong> to create powerful applications.
 - ✨ Focused on writing clean and efficient code.
 - 🔗 Let's connect and collaborate! 🤝 
-
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/ines-paulino/" target="_blank">
@@ -17,9 +18,11 @@ I'm a **Full Stack Developer** and **Salesforce Specialist** with a passion for 
   </a>
 </div>
 
+</div>
+
 ---
 
-### 🔥 Tech Stack
+### <span style="color: #4A90E2;">🔥 Tech Stack</span>
 
 <div align="left">
 
@@ -54,9 +57,6 @@ I'm a **Full Stack Developer** and **Salesforce Specialist** with a passion for 
 
 ---
 
+### <span style="color: #4A90E2;">⚡ Fun fact</span>
 
-
-### ⚡ Fun fact
-
-When I'm not coding, you can find me exploring new places, chilling at music festivals and hitting the trails with my dog.
-
+I’m a huge fan of <strong style="color: #E67E22;">music festivals</strong>—there's just something magical about the atmosphere and the vibe! When I'm not coding, you can find me exploring new places, chilling at music festivals, and hitting the trails with my dog.
