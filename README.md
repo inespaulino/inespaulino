@@ -7,7 +7,7 @@ I'm a <strong style="color: #E67E22;">Full Stack Developer</strong> and <strong 
 - 🌱 Currently learning <strong style="color: #E67E22;">React</strong>.
 - 🔧 Love working with <strong style="color: #E67E22;">Java</strong>, <strong style="color: #E67E22;">Salesforce</strong>, <strong style="color: #E67E22;">JavaScript</strong>, and <strong style="color: #E67E22;">SQL</strong> to create powerful applications.
 - ✨ Focused on writing clean and efficient code.
-- 🔗 Let's connect and collaborate! 🤝 
+- 🔗 Let's connect and collaborate! 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/ines-paulino/" target="_blank">
