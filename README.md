@@ -59,4 +59,4 @@ I'm a <strong style="color: #E67E22;">Full Stack Developer</strong> and <strong 
 
 ### <span style="color: #4A90E2;">⚡ Fun fact</span>
 
-I’m a huge fan of <strong style="color: #E67E22;">music festivals</strong>—there's just something magical about the atmosphere and the vibe! When I'm not coding, you can find me exploring new places, chilling at music festivals, and hitting the trails with my dog.
+When I'm not coding, you can find me exploring new places, chilling at music festivals and hitting the trails with my dog.
