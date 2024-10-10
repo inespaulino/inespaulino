@@ -58,5 +58,5 @@ I'm a **Full Stack Developer** and **Salesforce Specialist** with a passion for 
 
 ### ⚡ Fun fact
 
-I’m a huge fan of **music festivals**—there's just something magical about the atmosphere and the vibe! When I'm not coding, you can find me exploring new places, chilling at music festivals and hitting the trails with my dog.
+When I'm not coding, you can find me exploring new places, chilling at music festivals and hitting the trails with my dog.
 
